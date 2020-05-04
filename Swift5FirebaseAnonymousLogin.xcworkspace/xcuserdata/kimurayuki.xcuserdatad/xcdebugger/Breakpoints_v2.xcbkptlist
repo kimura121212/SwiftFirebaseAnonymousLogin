@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "61E61D23-2C31-4B83-87A5-6CC4E230C4A3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4057F604-6A09-4E9D-957D-1786ECAFC1A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift5FirebaseAnonymousLogin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "login(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4057F604-6A09-4E9D-957D-1786ECAFC1A6 - ef968b156f4a4ccd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift5FirebaseAnonymousLogin.ViewController.login(Any) -&gt; ()"
+                  moduleName = "Swift5FirebaseAnonymousLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimurayuki/Desktop/study/UdemySwift/Swift5FirebaseAnonymousLogin/Swift5FirebaseAnonymousLogin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "4057F604-6A09-4E9D-957D-1786ECAFC1A6 - f72fb8d2a79f2da9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Swift5FirebaseAnonymousLogin.ViewController.login(Any) -&gt; ()"
+                  moduleName = "Swift5FirebaseAnonymousLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimurayuki/Desktop/study/UdemySwift/Swift5FirebaseAnonymousLogin/Swift5FirebaseAnonymousLogin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
