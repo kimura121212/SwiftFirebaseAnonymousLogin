@@ -13,7 +13,6 @@
 		8D61450A245C662200C26AEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D614508245C662200C26AEC /* Main.storyboard */; };
 		8D61450C245C662600C26AEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D61450B245C662600C26AEC /* Assets.xcassets */; };
 		8D61450F245C662600C26AEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D61450D245C662600C26AEC /* LaunchScreen.storyboard */; };
-		8D61451A245C68F700C26AEC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8D614519245C68F700C26AEC /* GoogleService-Info.plist */; };
 		8D61451C245C6B8F00C26AEC /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D61451B245C6B8F00C26AEC /* InputViewController.swift */; };
 		8D61451E245C6EC400C26AEC /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D61451D245C6EC400C26AEC /* NextViewController.swift */; };
 		8D614520245C9D9200C26AEC /* Contents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D61451F245C9D9200C26AEC /* Contents.swift */; };
@@ -31,7 +30,6 @@
 		8D61450B245C662600C26AEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D61450E245C662600C26AEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D614510245C662600C26AEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8D614519245C68F700C26AEC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8D61451B245C6B8F00C26AEC /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
 		8D61451D245C6EC400C26AEC /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 		8D61451F245C9D9200C26AEC /* Contents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contents.swift; sourceTree = "<group>"; };
@@ -79,7 +77,6 @@
 				8D614518245C67EE00C26AEC /* View */,
 				8D614517245C67E700C26AEC /* Controller */,
 				8D614510245C662600C26AEC /* Info.plist */,
-				8D614519245C68F700C26AEC /* GoogleService-Info.plist */,
 			);
 			path = Swift5FirebaseAnonymousLogin;
 			sourceTree = "<group>";
@@ -194,7 +191,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D61450F245C662600C26AEC /* LaunchScreen.storyboard in Resources */,
-				8D61451A245C68F700C26AEC /* GoogleService-Info.plist in Resources */,
 				8D61450C245C662600C26AEC /* Assets.xcassets in Resources */,
 				8D61450A245C662200C26AEC /* Main.storyboard in Resources */,
 			);
